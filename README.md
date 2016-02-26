@@ -55,5 +55,7 @@ I'll adjust this when I have a better idea of what the minimum is, but I'd hazar
 18. Advanced File Sharing Topics
 19. AppLocker
 20. Group Policy for Security
+21. Windows Deployment Services
+22. Microsoft Deployment Toolkit
 
 More to come as I think of them.
